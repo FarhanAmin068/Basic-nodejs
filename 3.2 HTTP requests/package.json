@@ -1,0 +1,15 @@
+{
+  "name": "express_module",
+  "version": "1.0.0",
+  "description": "getting http requests",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan amin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "qr-image": "^3.2.0"
+  },
+  "name": "jibu",
+  "version": "1.0.0",
+  "description": "i am learning npm jibu",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan",
+  "license": "ISC"
+}
